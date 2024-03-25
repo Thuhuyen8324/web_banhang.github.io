@@ -1,0 +1,52 @@
+/*.............cart............*/
+.cart{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+    border: 1px solid black;
+   
+  
+}
+.cart h1{
+    margin-top: -3%;
+    font-size: 300%;
+    background-color: #FF9999;
+}
+
+.cart table{
+    width: 100%;
+}.cart table thead tr th:first-child{
+    text-align: left;
+}
+.cart table tr td {
+    border-bottom: 1px solid #ddd ;
+    padding: 12px 0;
+}
+.cart thead th{
+    padding: 0px 40px;
+    font-size: 150%;
+}
+.price-total p{
+    font-size: 150%;
+    margin-top: -7%;
+    margin-left: 62%;
+    font-weight: bold
+}
+.price-total span {
+    color: red;
+}
+.cart tbody img{
+    margin-left: 11%;
+}
+.price-total a{
+    display: flex;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 5%;
+    margin-top: -2%;
+}
+.banquyen h4{
+    margin-top: -2%;
+    margin-left: -25%;
+}
